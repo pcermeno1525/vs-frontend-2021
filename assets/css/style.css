@@ -102,26 +102,6 @@ footer a {
     display: inline-block;
 }
 
-input[type="text"], select {
-    margin-bottom: 15px;
-    padding: 10px;
-    width: 300px;
-}
-
-select {
-    width: 350;
-}
-
-input[type="submit"], button{
-    background: #7D0A42;
-    color: white;
-    padding: 15px;
-    font-size: 15px;
-    text-transform: uppercase;
-    border: 1px solid black;
-    cursor: pointer;
-}
-
 #contenidoContacto{  
     border: 2px solid #FDCC00;   
     padding: 5px;
@@ -142,3 +122,24 @@ input[type="submit"], button{
     padding: 5px;
     width: 300px;
  } 
+
+input[type="text"], select {
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 300px;
+}
+
+select {
+    width: 350;
+}
+
+input[type="submit"], button{
+    background: #7D0A42;
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    text-transform: uppercase;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
